@@ -19,7 +19,7 @@ Visual Feedback: Draws distinct bounding boxes (green for face, blue for eyes) f
 
 Simple Control: Allows the user to exit the application by pressing the 'q' key.
 
-Technologies/Tools Used
+# Technologies/Tools Used
 
 Technology -Role
 
@@ -41,7 +41,7 @@ Installation
 
 Clone the repository:
 
-git clone [Your Repository URL Here]
+git clone https://github.com/aryaman180578/AI-ML-Project-25BCY10217/tree/main
 cd AI-ML-Project-25BCY10217
 
 
@@ -55,7 +55,7 @@ Note: OpenCV automatically includes the necessary Haar Cascade XML files, which 
 Save the code:
 Save the provided Python code into a file named, for example, detector.py.
 
-Running the Project
+# Running the Project
 
 Run the Python script from your terminal:
 
@@ -64,7 +64,7 @@ python detector.py
 
 A new window titled "Detector" will open, displaying the live video feed from your webcam with the bounding boxes drawn around faces and eyes.
 
-Instructions for Testing
+# Instructions for Testing
 
 Start the application using the command python detector.py.
 
@@ -72,7 +72,7 @@ Ensure your webcam is active (the "Detector" window should show a live feed).
 
 Position your face in front of the camera.
 
-Observe the results:
+# Observe the results:
 
 A green rectangle should appear around your entire face.
 
